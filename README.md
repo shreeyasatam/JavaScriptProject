@@ -1,2 +1,2 @@
-# JavaScriptProject
+# JavaScriptDrumKitProject
 My Project
